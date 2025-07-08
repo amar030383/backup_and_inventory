@@ -1,0 +1,12 @@
+Name,IP Address,device_role,device_type,Location,Serial Numbers,Model,TWK Assumptions,,,,Machine Type,IOS Version,IOS Image
+APCHISRO3850129 - SWITCH,192.168.67.71,switch,cisco_ios,Shanghai Retail Office,"FOC2132L0LT, FOC2131U18V, FCW2131D1CH, FOC2132X0GS, FCW2131F1AB, FCW2330D0ZS","6 x WS-C3850-48P
+WS-C3850-48F-S","EOL/EOS - 10/31/2025
+03.06.06E - possible upgrade to 16.12.8","cat3k_caa-universalk9
+cat3k_caa-universalk9.16.12.08.SPA.bin - 458.31MB
+https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3850/software/release/16-12/release_notes/ol-16-12-3850.html#task_k3s_tgq_k3b",Use local resource to copy file to switch using USB,"1,315,237,888 bytes free
+1 year, 31 weeks, 4 days",Cisco Catalyst 38xx stack,03.06.06E RELEASE SOFTWARE (fc1),CAT3K_CAA-UNIVERSALK9-M
+APCHISRO9300132 - Switch,192.168.67.72,switch,cisco_ios,Shanghai Retail Office,"FOC2531LFX4, FOC2531LJVL, FOC2531LJRU, FOC2531LJEB, FOC2531LJNV",5 x C9300-48P,16.12.05b - possible upgrade to 17.6.4,"CAT9K_IOSXE
+cat9k_iosxe.17.06.05.SPA.bin - 979.97 MB
+https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst9300/software/release/17-6/release_notes/ol-17-6-9300.html#task_xpb_3tx_xkb
+",Use local resource to copy file to switch using USB,"9,935,605,760 bytes free
+3 weeks, 2 days, 16 hours",Cisco C9300-48P,16.12.05b,CAT9K_IOSXE
